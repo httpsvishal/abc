@@ -1,0 +1,91 @@
+[
+    {
+        "id": "grid-card-major-1",
+        "title": "Starting ₹99 | All your home improvement needs",
+        "child": [
+            {
+                "title": "Spin mops , wipes & more",
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_186x116_4._SY116_CB600489960_.jpg"
+            },
+            {
+                "title": "Bathroom hardware & accesories",
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_186x116_3._SY116_CB600489960_.jpg"
+            },
+            {
+                "title": "hammers, screwdrivers & more",
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_186x116_7._SY116_CB600489960_.jpg"
+            },
+            {
+                "title": "Extension boards, plugs & more",
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/HI/SYED/ATF/QC-adapts_186x116_5._SY116_CB600489960_.jpg"
+            }
+        ]
+    },
+    {
+        "id": "grid-card-major-2",
+        "title": "Up to 60% off | Styles for women",
+        "child": [
+            {
+                "title": "Women's clothing",
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF1-186-116._SY116_CB636048992_.jpg"
+            },
+            {
+                "title": "Footwear + Handbags",
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF2-186-116._SY116_CB636048992_.jpg"
+            },
+            {
+                "title": "Watches",
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF4-186-116._SY116_CB636048992_.jpg"
+            },
+            {
+                "title": "Fashion Jewellery",
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PC_WF/WF3-186-116._SY116_CB636048992_.jpg"
+            }
+        ]
+    },
+    {
+        "id": "grid-card-major-3",
+        "title": "Automotive essentials | Up to 60% off",
+        "child": [
+            {
+                "title": "Cleaning accesories",
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Glasscare1X._SY116_CB410830553_.jpg"
+            },
+            {
+                "title":"Tyre & rim care",
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Rim_tyrecare1x._SY116_CB410830552_.jpg"
+            },
+            {
+                "title": "Helmets",
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vega_helmet_186x116._SY116_CB405090404_.jpg"
+            },
+            {
+                "title": "Vacuum cleaner",
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Auto/2020/GW/PCQC/Vaccum1x._SY116_CB410830552_.jpg"
+            }
+        ]
+    },
+    {
+        "id": "grid-card-major-4",
+        "title": "Tender care, endless fun | Amazon Brands & more",
+        "child":[
+            {
+                "title":"Starting ₹199 | Baby essentials",
+                "img" :"https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/QC_186x116_1._SY116_CB595777477_.jpg"
+            },
+            {
+                "title":"Starting ₹249 | Baby rockers & more",
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW_CPB_/QC_CC/Baby_toys/QC_PC_186x116_31._SY116_CB561295501_.jpg"
+            },
+            {
+                "title":"Starting ₹179 | Soft Toys",
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW_CPB_/QC_CC/Baby_toys/QC_PC_186x116_1._SY116_CB580890518_.jpg"
+            },
+            {
+                "title":"Starting ₹379 | Outdoor games",
+                "img":"https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW_CPB_/QC_CC/Baby_toys/QC_PC_186x116_3._SY116_CB580890147_.jpg"
+
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id":"deal-1",
+        "discount":"38% off",
+        "item":"₹14,999.00 M.R.P.: ₹23,999.00iQOO Z7s 5G | Starting @13999 Including add. offersiQOO Z7s 5G | Starting @13999 Inclu…",
+        "img" : "https://m.media-amazon.com/images/I/41bLD50sZSL._AC_SY200_.jpg"
+    },
+    {
+        "id":"deal-2",
+        "discount":"Up to 27% off",
+        "item":"Starting from 10999 including additio…",
+        "img" : "https://m.media-amazon.com/images/I/41tSQSq1xJL._AC_SY200_.jpg"
+    },
+    {
+        "id":"deal-3",
+        "discount":"Up to 82% off",
+        "item":"All Clothing: Levi's, BIBA, U.S.POLO ASSN. and moreAll Clothing: Levi's, BIBA, U.S.POLO AS…",
+        "img" : "https://m.media-amazon.com/images/I/819cjkhWTWL._AC_SY200_.jpg"
+    },
+    {
+        "id":"deal-4",
+        "discount":"40% off",
+        "item":"₹11,999.00M.R.P.: ₹19,999.00 iQOO Z6 Lite | Starting @ 11999iQOO Z6 Lite | Starting @ 11999…",
+        "img" : "https://m.media-amazon.com/images/I/4105IiC5tDL._AC_SY200_.jpg"
+    },
+    {
+        "id":"deal-5",
+        "discount":"Up to 80% off",
+        "item":"Menswear: Blackberrys, Levi's, Spykar and moreMenswear: Blackberrys, Levi's, Spykar…",
+        "img" : "https://m.media-amazon.com/images/I/91hc2MZSYlL._AC_SY200_.jpg"
+    },
+    {
+        "id":"deal-6",
+        "discount":"Up to 52% off",
+        "item":"Best offers from top brands",
+        "img" : "https://m.media-amazon.com/images/I/41TssgTTkwL._AC_SY200_.jpg"
+    },
+    {
+        "id":"deal-7",
+        "discount":"Up to 65% off",
+        "item":"Safety & Security",
+        "img" : "https://m.media-amazon.com/images/I/31agL1j3cHL._AC_SY200_.jpg"
+    },
+    {
+        "id":"deal-8",
+        "discount":"Up to 75% off",
+        "item":"Best Offers on Home and Storage pro...",
+        "img" : "https://m.media-amazon.com/images/I/41CtKtA3+aL._AC_SY200_.jpg"
+    },
+    {
+        "id":"deal-9",
+        "discount":"Up to 40% off",
+        "item":"Water Softeners & accesories from W...",
+        "img" : "https://m.media-amazon.com/images/I/31BFEQMnpIL._AC_SY200_.jpg"
+    },
+    {
+        "id":"deal-10",
+        "discount":"Up to 87% off",
+        "item":"Casual Wear Tops from Top Brands",
+        "img" : "https://m.media-amazon.com/images/I/61FVEqUK9qL._AC_SY200_.jpg"
+    }
+]

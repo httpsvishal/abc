@@ -1,0 +1,15 @@
+.carousel{
+    display: flex;
+    width: 100vw;
+    height: 250px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    -ms-overflow-style: none;
+    >img{
+        width: 100vw;
+        height: 600px;
+    }
+    &::-webkit-scrollbar {
+        display: none;
+    }
+  }

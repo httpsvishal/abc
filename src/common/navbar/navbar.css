@@ -1,0 +1,83 @@
+.navbar{
+    background-color: #131921;
+    border : 1 px solid #000;
+    padding : 2px 16px;
+    align-items: center;
+    text-align: center;
+    display : flex;
+    color: #FFFFEA;
+    height: 60px;
+  }
+  .amazon-logo{
+    height: 36px;
+    width: 98px;
+  
+    background-image: url(https://m.media-amazon.com/images/G/31/gno/sprites/nav-sprite-global-2x-reorg-privacy._CB600086755_.png);
+    background-size: 350px;
+    background-position: -10px -45px;
+    
+  }
+  .logo-container{
+    display: flex;
+    padding: 1px 8px 0 6px;
+    
+  }
+  .location-container svg{
+    height: 18px;
+    width: 15px;
+    margin-top: 8px;
+  }
+  
+  .location-container{
+    display: flex;
+    width: 200px;
+    align-items: center;
+    margin: 0 9px 0 9px;
+    .location{
+        font-size: 12px;
+        color: #E6E6E6;
+        padding: 5px;
+      }
+  }
+  
+  .searchbar{
+    
+    border-radius: 4px;
+    width: calc(100vw - 897px);
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    .search-drop-box{
+        align-items: center;
+        background-color: #E6E6E6;
+        width: 40px;
+        height: 40px;
+        padding-left:5px;
+        font-size: 12px;
+        color: #555555;
+        appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+        border: none;
+    outline: none;
+    }
+  
+    >input{
+        border: none;
+        outline: none;
+        /* flex: 1; */
+        width: calc(100% - 80px);
+    }
+  }
+  .select-language{
+    width: 150px;
+  }
+  .account-section{
+    width : 150px;
+  }
+  .order-section{
+    width: 150px;
+  }
+  .cart-section{
+    width: 150px;
+  }
